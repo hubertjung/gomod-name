@@ -1,1 +1,1 @@
-module gomod-name
+module github.com/hubertjung/gomod-name

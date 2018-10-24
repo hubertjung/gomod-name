@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "gomod-name/gomod"
+    "github.com/hubertjung/gomod-name/gomod"
 )
 
 var World = "world"
