@@ -1,1 +1,1 @@
-module gomod-name
+module gomod
